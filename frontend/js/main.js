@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://tsang-invitation-cards.onrender.com/api";
+const API_BASE_URL = "https://hoang-giap-invitation-api.onrender.com/api";
 
 const INVITATION_DATA = {
   hostName: "Hoàng Giáp",
